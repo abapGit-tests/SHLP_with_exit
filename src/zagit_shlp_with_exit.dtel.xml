@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZAGIT_SHLP_WITH_EXIT</ROLLNAME>
+    <DDLANGUAGE>D</DDLANGUAGE>
+    <DOMNAME>MANDT</DOMNAME>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>test for AGIT_SHLP_WITH_EXIT</DDTEXT>
+    <REPTEXT>test for AGIT_SHLP_WITH_EXIT</REPTEXT>
+    <SCRTEXT_S>test AGIT</SCRTEXT_S>
+    <SCRTEXT_M>AGIT_SHLP_WITH_EXIT</SCRTEXT_M>
+    <SCRTEXT_L>test for AGIT_SHLP_WITH_EXIT</SCRTEXT_L>
+    <DTELMASTER>D</DTELMASTER>
+    <SHLPNAME>ZAGIT_SHLP_WITH_EXIT</SHLPNAME>
+    <SHLPFIELD>MANDT</SHLPFIELD>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>
