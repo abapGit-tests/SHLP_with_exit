@@ -38,25 +38,21 @@
        <PARAMETER>SHLP_TAB</PARAMETER>
        <KIND>P</KIND>
        <STEXT>Liste von alternativen elementaren Suchhilfen</STEXT>
-       <INDEX> 001</INDEX>
       </RSFDO>
       <RSFDO>
        <PARAMETER>RECORD_TAB</PARAMETER>
        <KIND>P</KIND>
        <STEXT>Suchhilfe Ergebnisstruktur</STEXT>
-       <INDEX> 002</INDEX>
       </RSFDO>
       <RSFDO>
        <PARAMETER>SHLP</PARAMETER>
        <KIND>P</KIND>
        <STEXT>Beschreibung einer Suchhilfe</STEXT>
-       <INDEX> 003</INDEX>
       </RSFDO>
       <RSFDO>
        <PARAMETER>CALLCONTROL</PARAMETER>
        <KIND>P</KIND>
        <STEXT>Steuerstruktur zum F4-Ablauf mit Suchhilfe-Exit</STEXT>
-       <INDEX> 004</INDEX>
       </RSFDO>
      </DOCUMENTATION>
     </item>
